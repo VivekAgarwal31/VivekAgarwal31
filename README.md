@@ -2,7 +2,7 @@
 - 👀 I’m a Third Year B.Tech Student at Bennett University
 - 🌱 I’m currently pursuing Computer Science Engineering
 - 💞️ I’m looking to collaborate on LinkedIn and Github
-- 📫 My LinkedIn - https://www.linkedin.com/in/vivek-agarwal-3036aa24a
+- 📫 My LinkedIn - https://www.linkedin.com/in/vivekagr31
 
 <!---
 VivekAgarwal31/VivekAgarwal31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
